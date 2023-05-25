@@ -1,0 +1,38 @@
+#green{
+    background-color: rgb(1, 88, 16);
+    height: 100px;
+    width: 100px;
+    border:  solid 10px black;
+  padding: 20px;
+   
+   
+}
+p{
+    font-size: 13px;
+}
+  #yellow{
+    background-color: yellow;
+    height: 100px;
+    width: 100px;
+    border-style: solid;
+    border-color: black;
+    border-top-width: 20px;
+    border-bottom-width: 20px;
+    border-right-width: 10px;
+    border-left-width: 10px;
+    
+     
+  }  
+  #yellow{
+    position: relative;
+    left: 159px;
+  }
+  #red{
+    background-color: brown;
+    height: 100px;
+    width: 100px;
+    border: solid 10px black;
+    position: relative;
+    left: 44px;
+  }
+ 
